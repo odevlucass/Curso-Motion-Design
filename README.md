@@ -9,7 +9,8 @@ Este repositório é o diário visual da minha jornada pelo curso de **Motion De
 ---
 
 📚 **Curso que estou fazendo:**  
-[👉 Acesse o curso aqui](https://youtu.be/vqXLGX0szIQ?si=hv9IG5FqAd5ENT3p)
+
+[Acesse o curso aqui](https://youtu.be/vqXLGX0szIQ?si=hv9IG5FqAd5ENT3p)
 
 > 📌 **Observação:** O curso está em inglês, mas você pode ativar a legenda automática do YouTube e traduzi-la para o português se estiver assistindo pelo computador. Isso facilita bastante o acompanhamento das aulas! 😉
 
